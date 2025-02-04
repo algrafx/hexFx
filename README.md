@@ -10,6 +10,10 @@ These are the binaries of the hexFx project.
 
 The project is written in pure assembler. The source code can only be compiled in my development environment, so the sources are not open yet. I plan to release my own environment, but at the moment it contains third-party files, which delays the release. Shark.dll is part of my development environment and is currently necessary for the program to work.
 
+8 options to get the same output.
+
+![0827](https://github.com/user-attachments/assets/503dad64-a005-4e51-accf-5842f8a6a6c0)
+
 ## Русский
 
 hexFx — мини хекс-редактор с поддержкой комментариев (;) темплейтов (для выбранного текста) и без фиксированных строк и столбцов.
